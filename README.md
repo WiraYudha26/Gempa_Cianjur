@@ -1,6 +1,8 @@
 # 📊 Analisis Gempa Bumi Cianjur 2022
-Proyek ini melakukan **analisis eksplorasi data (EDA)** terhadap dataset gempa bumi di Cianjur. Menggunakan pendekatan **data mining**, proyek ini menghasilkan insight mengenai:
+Proyek analisis data gempa bumi yang terjadi pada tahun 2022 di Kabupaten Cianjur, Jawa Barat, Indonesia. Proyek ini bertujuan untuk memahami pola distribusi gempa, mengidentifikasi daerah yang paling terdampak, serta mendukung upaya mitigasi bencana berbasis data.
 
+## 📋 Deskripsi Proyek
+Proyek ini melakukan **analisis eksplorasi data (EDA)** terhadap dataset gempa bumi di Cianjur. Menggunakan pendekatan **data mining**, proyek ini menghasilkan insight mengenai:
 - Persebaran gempa bumi per kecamatan dan kelurahan
 - Daerah yang paling sering mengalami gempa (hotspot)
 - Visualisasi distribusi gempa secara keseluruhan
