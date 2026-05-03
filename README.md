@@ -1,4 +1,4 @@
-# 📊 Analisis Gempa Bumi Cianjur - Data Mining & Visualisasi
+# 📊 Analisis Gempa Bumi Cianjur 2022
 Proyek ini melakukan **analisis eksplorasi data (EDA)** terhadap dataset gempa bumi di Cianjur. Menggunakan pendekatan **data mining**, proyek ini menghasilkan insight mengenai:
 
 - Persebaran gempa bumi per kecamatan dan kelurahan
