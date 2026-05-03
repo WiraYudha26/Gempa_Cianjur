@@ -1,11 +1,15 @@
 # 📊 Analisis Gempa Bumi Cianjur 2022
 Proyek analisis data gempa bumi yang terjadi pada tahun 2022 di Kabupaten Cianjur, Jawa Barat, Indonesia. Proyek ini bertujuan untuk memahami pola distribusi gempa, mengidentifikasi daerah yang paling terdampak, serta mendukung upaya mitigasi bencana berbasis data.
 
+---
+
 ## 📋 Deskripsi Proyek
 Proyek ini melakukan **analisis eksplorasi data (EDA)** terhadap dataset gempa bumi di Cianjur. Menggunakan pendekatan **data mining**, proyek ini menghasilkan insight mengenai:
 - Persebaran gempa bumi per kecamatan dan kelurahan
 - Daerah yang paling sering mengalami gempa (hotspot)
 - Visualisasi distribusi gempa secara keseluruhan
+
+---
 
 ## ✨ Fitur Analisis
 - Perhitungan total kejadian gempa bumi
@@ -13,6 +17,8 @@ Proyek ini melakukan **analisis eksplorasi data (EDA)** terhadap dataset gempa b
 - Identifikasi daerah paling terdampak
 - Visualisasi bar chart menggunakan Seaborn & Matplotlib
 - Ringkasan insight untuk mitigasi bencana
+
+---
 
 ## 🛠️ Tools
 - **Bahasa Pemrograman**: Python 3
@@ -23,6 +29,8 @@ Proyek ini melakukan **analisis eksplorasi data (EDA)** terhadap dataset gempa b
 - **Environment**: Jupyter Notebook
 - **Dataset**: `Gempa_Cianjur.csv`
 
+---
+
 ## 🚀 Cara Menjalankan
 1. Pastikan kamu memiliki Python dan library yang diperlukan:
    ```bash
@@ -31,7 +39,9 @@ Proyek ini melakukan **analisis eksplorasi data (EDA)** terhadap dataset gempa b
 2. Buka Jupyter Notebook:
 3. Jalankan sel-sel di file Earthquake Cianjur Analysis.ipynb
 
-## 📈 Insight Utama
+---
+
+## 📈 Temuan Utama
 - Total kejadian gempa di dataset: 155
 - Kecamatan paling terdampak: Cugenang (16 kejadian)
 - Kelurahan paling terdampak: Sukamulya (4 kejadian)
